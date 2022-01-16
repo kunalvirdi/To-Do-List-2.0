@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/style.css">
+    <title>To-Do 2.0</title>
+</head>
+<body class="bg-dark">
+    <div class="background">
+       <img src="images/bg-desktop-dark.jpg" alt=""> 
+    </div>
+    <div class="container">
+        <div class="heading">
+            <h1 class="logo">TODO</h1>
+            <div class="heading-img">
+                <img class="mode sun" src="images/icon-sun.svg" alt="">
+            </div>
+        </div>
+        <div class="input-cont">
+            <div class="input">
+                <div class="circle">
+                </div>
+                <form>
+                    <input type="text" placeholder="Enter Task Here..." autocomplete="off">
+                </form>
+            </div>
+        </div>
+        <div class="task-items">
+            
+        </div>
+        <div class="footer">
+            <div class="task-remaining">
+                <span class="count"></span> <span class="count-left"></span>
+            </div>
+            <div class="status">
+                <a href="#">All</a>
+                <a href="#">Active</a>
+                <a href="#">Completed</a>
+            </div>
+            <div class="clear">
+                <p>Clear Completed</p>
+            </div>
+        </div>
+        <div class="footer footer-responsive">
+            <div class="status">
+                <a href="#">All</a>
+                <a href="#">Active</a>
+                <a href="#">Completed</a>
+            </div>
+        </div>
+    </div>
+    <script src="script/ui.js"></script>
+    <script src="script/storage.js"></script>
+    <script src="script/app.js"></script>
+</body>
+</html>
