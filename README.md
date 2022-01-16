@@ -13,6 +13,7 @@ A web application where we can manage our to-do things or list. Challenge taken 
 - Arrange the task by All,Completed,Active tasks
 - Clear all the completed tasks
 - Track the count of tasks
+- Having access to the local Storage so that data will not be lost after every reload.
 
 
 ## Screenshots
