@@ -1,7 +1,7 @@
 
 # TO DO
 
-A web application where we can manage our to-do things or list. Challenge taken from [Frontedn Mentors](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW/hub/todo-app-TB0tqRoLR)
+A web application where we can manage our to-do things or list. Challenge taken from [Frontend Mentors](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW/hub/todo-app-TB0tqRoLR)
 
 
 ## Features
